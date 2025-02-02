@@ -1,2 +1,1 @@
 apikey|domain
-apikey|domain
